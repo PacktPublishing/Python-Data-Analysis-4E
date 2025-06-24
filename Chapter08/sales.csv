@@ -1,0 +1,1201 @@
+Date,Product_Category,Region,Units_Sold,Unit_Price,Revenue
+2023-01-01,Electronics,North,23,24.04,552.92
+2023-01-02,Electronics,North,15,87.96,1319.3999999999999
+2023-01-03,Electronics,North,21,11.85,248.85
+2023-01-04,Electronics,North,16,26.51,424.16
+2023-01-05,Electronics,North,17,48.88,830.96
+2023-01-06,Electronics,North,17,22.55,383.35
+2023-01-07,Electronics,North,17,51.05,867.8499999999999
+2023-01-08,Electronics,North,24,56.28,1350.72
+2023-01-09,Electronics,North,21,64.68,1358.2800000000002
+2023-01-10,Electronics,North,15,95.4,1431.0
+2023-01-11,Electronics,North,17,71.58,1216.86
+2023-01-12,Electronics,North,19,54.57,1036.83
+2023-01-13,Electronics,North,17,38.05,646.8499999999999
+2023-01-14,Electronics,North,20,26.64,532.8
+2023-01-15,Electronics,North,21,17.96,377.16
+2023-01-16,Electronics,North,15,39.28,589.2
+2023-01-17,Electronics,North,18,84.59,1522.6200000000001
+2023-01-18,Electronics,North,18,58.84,1059.1200000000001
+2023-01-19,Electronics,North,24,10.5,252.0
+2023-01-20,Electronics,North,23,16.66,383.18
+2023-01-21,Electronics,North,18,87.68,1578.2400000000002
+2023-01-22,Electronics,North,22,15.72,345.84000000000003
+2023-01-23,Electronics,North,17,75.66,1286.22
+2023-01-24,Electronics,North,20,74.19,1483.8
+2023-01-25,Electronics,North,24,79.39,1905.3600000000001
+2023-01-26,Electronics,North,20,48.48,969.5999999999999
+2023-01-27,Electronics,North,17,91.68,1558.5600000000002
+2023-01-28,Electronics,North,16,78.0,1248.0
+2023-01-29,Electronics,North,16,36.08,577.28
+2023-01-30,Electronics,North,24,88.43,2122.32
+2023-01-31,Electronics,North,24,90.33,2167.92
+2023-02-01,Electronics,North,20,90.65,1813.0
+2023-02-02,Electronics,North,17,30.51,518.6700000000001
+2023-02-03,Electronics,North,19,87.47,1661.93
+2023-02-04,Electronics,North,19,20.79,395.01
+2023-02-05,Electronics,North,18,39.09,703.6200000000001
+2023-02-06,Electronics,North,20,42.73,854.5999999999999
+2023-02-07,Electronics,North,16,37.08,593.28
+2023-02-08,Electronics,North,17,64.86,1102.62
+2023-02-09,Electronics,North,20,35.08,701.5999999999999
+2023-02-10,Electronics,North,27,23.04,622.0799999999999
+2023-02-11,Electronics,North,16,78.55,1256.8
+2023-02-12,Electronics,North,16,43.1,689.6
+2023-02-13,Electronics,North,22,58.22,1280.84
+2023-02-14,Electronics,North,13,38.87,505.30999999999995
+2023-02-15,Electronics,North,15,63.18,947.7
+2023-02-16,Electronics,North,22,56.09,1233.98
+2023-02-17,Electronics,North,16,25.69,411.04
+2023-02-18,Electronics,North,23,94.31,2169.13
+2023-02-19,Electronics,North,14,20.21,282.94
+2023-02-20,Electronics,North,17,83.55,1420.35
+2023-02-21,Electronics,North,21,31.77,667.17
+2023-02-22,Electronics,North,27,40.51,1093.77
+2023-02-23,Electronics,North,18,90.74,1633.32
+2023-02-24,Electronics,North,26,67.78,1762.28
+2023-02-25,Electronics,North,12,90.87,1090.44
+2023-02-26,Electronics,North,21,19.13,401.72999999999996
+2023-02-27,Electronics,North,22,24.47,538.3399999999999
+2023-02-28,Electronics,North,21,68.68,1442.2800000000002
+2023-03-01,Electronics,North,16,31.35,501.6
+2023-03-02,Electronics,North,18,68.47,1232.46
+2023-03-03,Electronics,North,25,61.15,1528.75
+2023-03-04,Electronics,North,13,33.87,440.30999999999995
+2023-03-05,Electronics,North,18,66.8,1202.3999999999999
+2023-03-06,Electronics,North,24,61.92,1486.08
+2023-03-07,Electronics,North,20,75.02,1500.3999999999999
+2023-03-08,Electronics,North,17,68.09,1157.53
+2023-03-09,Electronics,North,18,93.55,1683.8999999999999
+2023-03-10,Electronics,North,17,86.6,1472.1999999999998
+2023-03-11,Electronics,North,17,60.11,1021.87
+2023-03-12,Electronics,North,29,61.31,1777.99
+2023-03-13,Electronics,North,13,99.1,1288.3
+2023-03-14,Electronics,North,14,88.96,1245.4399999999998
+2023-03-15,Electronics,North,23,73.22,1684.06
+2023-03-16,Electronics,North,18,82.84,1491.1200000000001
+2023-03-17,Electronics,North,27,55.14,1488.78
+2023-03-18,Electronics,North,24,73.18,1756.3200000000002
+2023-03-19,Electronics,North,18,18.46,332.28000000000003
+2023-03-20,Electronics,North,21,51.9,1089.8999999999999
+2023-03-21,Electronics,North,20,63.17,1263.4
+2023-03-22,Electronics,North,7,84.03,588.21
+2023-03-23,Electronics,North,18,57.0,1026.0
+2023-03-24,Electronics,North,24,66.06,1585.44
+2023-03-25,Electronics,North,12,57.82,693.84
+2023-03-26,Electronics,North,20,75.35,1507.0
+2023-03-27,Electronics,North,17,34.37,584.29
+2023-03-28,Electronics,North,19,12.28,233.32
+2023-03-29,Electronics,North,23,25.6,588.8000000000001
+2023-03-30,Electronics,North,15,59.43,891.45
+2023-03-31,Electronics,North,23,35.19,809.3699999999999
+2023-04-01,Electronics,North,30,59.89,1796.7
+2023-04-02,Electronics,North,21,32.3,678.3
+2023-04-03,Electronics,North,18,11.3,203.4
+2023-04-04,Electronics,North,14,13.67,191.38
+2023-04-05,Electronics,North,25,52.68,1317.0
+2023-04-06,Electronics,North,13,52.61,683.93
+2023-04-07,Electronics,North,15,45.87,688.05
+2023-04-08,Electronics,North,21,14.08,295.68
+2023-04-09,Electronics,North,18,55.28,995.04
+2023-04-10,Electronics,North,26,24.66,641.16
+2023-01-01,Electronics,South,12,12.39,148.68
+2023-01-02,Electronics,South,21,67.9,1425.9
+2023-01-03,Electronics,South,19,94.73,1799.8700000000001
+2023-01-04,Electronics,South,27,16.24,438.47999999999996
+2023-01-05,Electronics,South,13,18.5,240.5
+2023-01-06,Electronics,South,22,38.71,851.62
+2023-01-07,Electronics,South,25,83.3,2082.5
+2023-01-08,Electronics,South,17,72.71,1236.07
+2023-01-09,Electronics,South,23,35.38,813.74
+2023-01-10,Electronics,South,15,82.62,1239.3000000000002
+2023-01-11,Electronics,South,18,40.67,732.0600000000001
+2023-01-12,Electronics,South,28,48.61,1361.08
+2023-01-13,Electronics,South,23,19.28,443.44000000000005
+2023-01-14,Electronics,South,27,84.38,2278.2599999999998
+2023-01-15,Electronics,South,18,91.48,1646.64
+2023-01-16,Electronics,South,13,95.51,1241.63
+2023-01-17,Electronics,South,30,66.87,2006.1000000000001
+2023-01-18,Electronics,South,19,39.58,752.02
+2023-01-19,Electronics,South,22,81.24,1787.28
+2023-01-20,Electronics,South,24,54.5,1308.0
+2023-01-21,Electronics,South,11,49.74,547.14
+2023-01-22,Electronics,South,26,20.54,534.04
+2023-01-23,Electronics,South,22,17.57,386.54
+2023-01-24,Electronics,South,23,83.97,1931.31
+2023-01-25,Electronics,South,23,17.64,405.72
+2023-01-26,Electronics,South,18,95.25,1714.5
+2023-01-27,Electronics,South,18,79.94,1438.92
+2023-01-28,Electronics,South,21,91.57,1922.9699999999998
+2023-01-29,Electronics,South,13,11.02,143.26
+2023-01-30,Electronics,South,20,20.69,413.8
+2023-01-31,Electronics,South,14,77.14,1079.96
+2023-02-01,Electronics,South,18,88.17,1587.06
+2023-02-02,Electronics,South,12,97.24,1166.8799999999999
+2023-02-03,Electronics,South,20,72.62,1452.4
+2023-02-04,Electronics,South,19,62.59,1189.21
+2023-02-05,Electronics,South,27,35.29,952.8299999999999
+2023-02-06,Electronics,South,19,34.96,664.24
+2023-02-07,Electronics,South,15,41.8,627.0
+2023-02-08,Electronics,South,21,97.7,2051.7000000000003
+2023-02-09,Electronics,South,20,83.24,1664.8
+2023-02-10,Electronics,South,22,91.98,2023.5600000000002
+2023-02-11,Electronics,South,23,47.64,1095.72
+2023-02-12,Electronics,South,28,14.07,393.96000000000004
+2023-02-13,Electronics,South,15,44.28,664.2
+2023-02-14,Electronics,South,25,47.33,1183.25
+2023-02-15,Electronics,South,17,87.83,1493.11
+2023-02-16,Electronics,South,25,50.55,1263.75
+2023-02-17,Electronics,South,21,70.45,1479.45
+2023-02-18,Electronics,South,22,20.22,444.84
+2023-02-19,Electronics,South,22,79.51,1749.22
+2023-02-20,Electronics,South,20,59.67,1193.4
+2023-02-21,Electronics,South,21,46.31,972.51
+2023-02-22,Electronics,South,14,77.96,1091.4399999999998
+2023-02-23,Electronics,South,22,29.17,641.74
+2023-02-24,Electronics,South,14,41.55,581.6999999999999
+2023-02-25,Electronics,South,21,49.37,1036.77
+2023-02-26,Electronics,South,27,56.26,1519.02
+2023-02-27,Electronics,South,24,65.99,1583.7599999999998
+2023-02-28,Electronics,South,20,51.32,1026.4
+2023-03-01,Electronics,South,18,31.61,568.98
+2023-03-02,Electronics,South,12,21.52,258.24
+2023-03-03,Electronics,South,15,67.68,1015.2
+2023-03-04,Electronics,South,15,90.71,1360.6499999999999
+2023-03-05,Electronics,South,20,25.51,510.20000000000005
+2023-03-06,Electronics,South,15,25.2,378.0
+2023-03-07,Electronics,South,17,17.98,305.66
+2023-03-08,Electronics,South,14,28.57,399.98
+2023-03-09,Electronics,South,18,72.14,1298.52
+2023-03-10,Electronics,South,22,88.62,1949.64
+2023-03-11,Electronics,South,28,34.92,977.76
+2023-03-12,Electronics,South,24,26.61,638.64
+2023-03-13,Electronics,South,16,53.61,857.76
+2023-03-14,Electronics,South,22,51.63,1135.8600000000001
+2023-03-15,Electronics,South,23,32.72,752.56
+2023-03-16,Electronics,South,20,19.65,393.0
+2023-03-17,Electronics,South,19,31.82,604.58
+2023-03-18,Electronics,South,17,11.81,200.77
+2023-03-19,Electronics,South,17,39.47,670.99
+2023-03-20,Electronics,South,14,63.42,887.88
+2023-03-21,Electronics,South,22,54.86,1206.92
+2023-03-22,Electronics,South,13,62.82,816.66
+2023-03-23,Electronics,South,23,21.48,494.04
+2023-03-24,Electronics,South,17,68.13,1158.21
+2023-03-25,Electronics,South,21,98.79,2074.59
+2023-03-26,Electronics,South,21,19.16,402.36
+2023-03-27,Electronics,South,15,24.46,366.90000000000003
+2023-03-28,Electronics,South,15,25.6,384.0
+2023-03-29,Electronics,South,27,57.21,1544.67
+2023-03-30,Electronics,South,13,97.25,1264.25
+2023-03-31,Electronics,South,17,70.18,1193.0600000000002
+2023-04-01,Electronics,South,28,61.45,1720.6000000000001
+2023-04-02,Electronics,South,17,26.83,456.10999999999996
+2023-04-03,Electronics,South,18,55.68,1002.24
+2023-04-04,Electronics,South,16,64.96,1039.36
+2023-04-05,Electronics,South,17,23.89,406.13
+2023-04-06,Electronics,South,20,14.66,293.2
+2023-04-07,Electronics,South,18,15.7,282.59999999999997
+2023-04-08,Electronics,South,25,71.34,1783.5
+2023-04-09,Electronics,South,24,52.44,1258.56
+2023-04-10,Electronics,South,19,93.66,1779.54
+2023-01-01,Electronics,West,14,94.45,1322.3
+2023-01-02,Electronics,West,15,76.7,1150.5
+2023-01-03,Electronics,West,21,22.58,474.17999999999995
+2023-01-04,Electronics,West,24,24.73,593.52
+2023-01-05,Electronics,West,15,69.87,1048.0500000000002
+2023-01-06,Electronics,West,20,88.95,1779.0
+2023-01-07,Electronics,West,18,49.52,891.36
+2023-01-08,Electronics,West,18,37.12,668.16
+2023-01-09,Electronics,West,23,30.9,710.6999999999999
+2023-01-10,Electronics,West,27,58.92,1590.8400000000001
+2023-01-11,Electronics,West,27,20.52,554.04
+2023-01-12,Electronics,West,29,40.14,1164.06
+2023-01-13,Electronics,West,22,90.45,1989.9
+2023-01-14,Electronics,West,24,38.05,913.1999999999999
+2023-01-15,Electronics,West,16,13.02,208.32
+2023-01-16,Electronics,West,21,88.91,1867.11
+2023-01-17,Electronics,West,18,19.96,359.28000000000003
+2023-01-18,Electronics,West,25,45.76,1144.0
+2023-01-19,Electronics,West,24,30.63,735.12
+2023-01-20,Electronics,West,23,67.7,1557.1000000000001
+2023-01-21,Electronics,West,23,32.66,751.18
+2023-01-22,Electronics,West,18,91.76,1651.68
+2023-01-23,Electronics,West,21,51.58,1083.18
+2023-01-24,Electronics,West,30,62.76,1882.8
+2023-01-25,Electronics,West,20,11.63,232.60000000000002
+2023-01-26,Electronics,West,21,93.02,1953.4199999999998
+2023-01-27,Electronics,West,23,61.87,1423.01
+2023-01-28,Electronics,West,21,76.28,1601.88
+2023-01-29,Electronics,West,28,50.58,1416.24
+2023-01-30,Electronics,West,25,92.88,2322.0
+2023-01-31,Electronics,West,26,63.21,1643.46
+2023-02-01,Electronics,West,19,40.17,763.23
+2023-02-02,Electronics,West,24,40.01,960.24
+2023-02-03,Electronics,West,19,92.79,1763.0100000000002
+2023-02-04,Electronics,West,18,76.38,1374.84
+2023-02-05,Electronics,West,19,50.72,963.68
+2023-02-06,Electronics,West,14,54.85,767.9
+2023-02-07,Electronics,West,19,42.62,809.78
+2023-02-08,Electronics,West,21,11.18,234.78
+2023-02-09,Electronics,West,22,96.5,2123.0
+2023-02-10,Electronics,West,14,17.68,247.51999999999998
+2023-02-11,Electronics,West,21,77.5,1627.5
+2023-02-12,Electronics,West,16,28.46,455.36
+2023-02-13,Electronics,West,15,52.49,787.35
+2023-02-14,Electronics,West,21,79.8,1675.8
+2023-02-15,Electronics,West,19,49.67,943.73
+2023-02-16,Electronics,West,19,23.97,455.42999999999995
+2023-02-17,Electronics,West,29,34.37,996.7299999999999
+2023-02-18,Electronics,West,22,12.28,270.15999999999997
+2023-02-19,Electronics,West,15,69.3,1039.5
+2023-02-20,Electronics,West,16,11.77,188.32
+2023-02-21,Electronics,West,15,31.44,471.6
+2023-02-22,Electronics,West,13,75.0,975.0
+2023-02-23,Electronics,West,25,45.75,1143.75
+2023-02-24,Electronics,West,22,36.38,800.36
+2023-02-25,Electronics,West,27,17.7,477.9
+2023-02-26,Electronics,West,16,26.33,421.28
+2023-02-27,Electronics,West,21,90.34,1897.14
+2023-02-28,Electronics,West,25,33.35,833.75
+2023-03-01,Electronics,West,18,34.13,614.34
+2023-03-02,Electronics,West,22,59.68,1312.96
+2023-03-03,Electronics,West,19,95.36,1811.84
+2023-03-04,Electronics,West,24,88.16,2115.84
+2023-03-05,Electronics,West,20,81.99,1639.8
+2023-03-06,Electronics,West,19,34.18,649.42
+2023-03-07,Electronics,West,20,33.21,664.2
+2023-03-08,Electronics,West,15,11.66,174.9
+2023-03-09,Electronics,West,27,61.89,1671.03
+2023-03-10,Electronics,West,17,68.63,1166.71
+2023-03-11,Electronics,West,25,10.99,274.75
+2023-03-12,Electronics,West,26,64.05,1665.3
+2023-03-13,Electronics,West,22,92.3,2030.6
+2023-03-14,Electronics,West,19,56.7,1077.3
+2023-03-15,Electronics,West,10,76.42,764.2
+2023-03-16,Electronics,West,12,32.08,384.96
+2023-03-17,Electronics,West,18,42.01,756.18
+2023-03-18,Electronics,West,23,60.98,1402.54
+2023-03-19,Electronics,West,20,94.31,1886.2
+2023-03-20,Electronics,West,23,12.81,294.63
+2023-03-21,Electronics,West,17,14.63,248.71
+2023-03-22,Electronics,West,20,40.08,801.5999999999999
+2023-03-23,Electronics,West,24,16.76,402.24
+2023-03-24,Electronics,West,23,71.96,1655.08
+2023-03-25,Electronics,West,19,83.72,1590.68
+2023-03-26,Electronics,West,24,34.49,827.76
+2023-03-27,Electronics,West,21,18.24,383.03999999999996
+2023-03-28,Electronics,West,28,95.52,2674.56
+2023-03-29,Electronics,West,19,58.77,1116.63
+2023-03-30,Electronics,West,26,82.59,2147.34
+2023-03-31,Electronics,West,22,86.43,1901.46
+2023-04-01,Electronics,West,16,29.91,478.56
+2023-04-02,Electronics,West,28,61.12,1711.36
+2023-04-03,Electronics,West,27,72.77,1964.79
+2023-04-04,Electronics,West,20,86.01,1720.2
+2023-04-05,Electronics,West,17,13.33,226.61
+2023-04-06,Electronics,West,21,20.85,437.85
+2023-04-07,Electronics,West,12,40.59,487.08000000000004
+2023-04-08,Electronics,West,23,38.38,882.74
+2023-04-09,Electronics,West,20,38.69,773.8
+2023-04-10,Electronics,West,21,12.2,256.2
+2023-01-01,Clothing,North,26,88.72,2306.72
+2023-01-02,Clothing,North,20,81.89,1637.8
+2023-01-03,Clothing,North,24,53.19,1276.56
+2023-01-04,Clothing,North,19,76.38,1451.2199999999998
+2023-01-05,Clothing,North,16,41.92,670.72
+2023-01-06,Clothing,North,17,31.02,527.34
+2023-01-07,Clothing,North,9,98.9,890.1
+2023-01-08,Clothing,North,19,71.17,1352.23
+2023-01-09,Clothing,North,24,47.58,1141.92
+2023-01-10,Clothing,North,19,25.03,475.57000000000005
+2023-01-11,Clothing,North,29,64.7,1876.3000000000002
+2023-01-12,Clothing,North,20,25.89,517.8
+2023-01-13,Clothing,North,16,80.16,1282.56
+2023-01-14,Clothing,North,18,97.22,1749.96
+2023-01-15,Clothing,North,19,72.64,1380.16
+2023-01-16,Clothing,North,15,30.2,453.0
+2023-01-17,Clothing,North,16,63.36,1013.76
+2023-01-18,Clothing,North,21,88.97,1868.37
+2023-01-19,Clothing,North,17,89.99,1529.83
+2023-01-20,Clothing,North,25,59.58,1489.5
+2023-01-21,Clothing,North,13,43.54,566.02
+2023-01-22,Clothing,North,17,54.63,928.71
+2023-01-23,Clothing,North,12,71.49,857.8799999999999
+2023-01-24,Clothing,North,20,63.32,1266.4
+2023-01-25,Clothing,North,25,71.02,1775.5
+2023-01-26,Clothing,North,21,89.08,1870.68
+2023-01-27,Clothing,North,24,86.55,2077.2
+2023-01-28,Clothing,North,26,85.33,2218.58
+2023-01-29,Clothing,North,23,65.68,1510.64
+2023-01-30,Clothing,North,24,89.28,2142.7200000000003
+2023-01-31,Clothing,North,26,84.32,2192.3199999999997
+2023-02-01,Clothing,North,14,76.92,1076.88
+2023-02-02,Clothing,North,15,84.89,1273.35
+2023-02-03,Clothing,North,20,35.83,716.5999999999999
+2023-02-04,Clothing,North,22,67.06,1475.3200000000002
+2023-02-05,Clothing,North,20,19.63,392.59999999999997
+2023-02-06,Clothing,North,24,96.67,2320.08
+2023-02-07,Clothing,North,18,93.88,1689.84
+2023-02-08,Clothing,North,23,37.09,853.07
+2023-02-09,Clothing,North,23,62.4,1435.2
+2023-02-10,Clothing,North,18,14.12,254.16
+2023-02-11,Clothing,North,14,12.21,170.94
+2023-02-12,Clothing,North,20,71.5,1430.0
+2023-02-13,Clothing,North,19,99.74,1895.06
+2023-02-14,Clothing,North,19,24.73,469.87
+2023-02-15,Clothing,North,24,29.87,716.88
+2023-02-16,Clothing,North,12,68.91,826.92
+2023-02-17,Clothing,North,15,94.93,1423.95
+2023-02-18,Clothing,North,19,45.78,869.82
+2023-02-19,Clothing,North,19,30.7,583.3
+2023-02-20,Clothing,North,16,68.65,1098.4
+2023-02-21,Clothing,North,18,52.59,946.6200000000001
+2023-02-22,Clothing,North,33,88.18,2909.94
+2023-02-23,Clothing,North,25,66.36,1659.0
+2023-02-24,Clothing,North,14,92.88,1300.32
+2023-02-25,Clothing,North,22,53.34,1173.48
+2023-02-26,Clothing,North,14,71.7,1003.8000000000001
+2023-02-27,Clothing,North,19,54.24,1030.56
+2023-02-28,Clothing,North,11,34.21,376.31
+2023-03-01,Clothing,North,24,50.97,1223.28
+2023-03-02,Clothing,North,18,64.0,1152.0
+2023-03-03,Clothing,North,17,87.41,1485.97
+2023-03-04,Clothing,North,24,53.25,1278.0
+2023-03-05,Clothing,North,13,98.8,1284.3999999999999
+2023-03-06,Clothing,North,14,65.63,918.8199999999999
+2023-03-07,Clothing,North,23,10.88,250.24
+2023-03-08,Clothing,North,18,17.91,322.38
+2023-03-09,Clothing,North,18,17.07,307.26
+2023-03-10,Clothing,North,19,61.08,1160.52
+2023-03-11,Clothing,North,16,19.41,310.56
+2023-03-12,Clothing,North,22,12.84,282.48
+2023-03-13,Clothing,North,29,58.72,1702.8799999999999
+2023-03-14,Clothing,North,23,40.55,932.65
+2023-03-15,Clothing,North,25,90.53,2263.25
+2023-03-16,Clothing,North,21,50.71,1064.91
+2023-03-17,Clothing,North,22,75.84,1668.48
+2023-03-18,Clothing,North,12,32.24,386.88
+2023-03-19,Clothing,North,15,29.73,445.95
+2023-03-20,Clothing,North,15,69.28,1039.2
+2023-03-21,Clothing,North,20,74.73,1494.6000000000001
+2023-03-22,Clothing,North,16,16.5,264.0
+2023-03-23,Clothing,North,19,75.45,1433.55
+2023-03-24,Clothing,North,23,41.13,945.99
+2023-03-25,Clothing,North,21,75.27,1580.6699999999998
+2023-03-26,Clothing,North,20,91.06,1821.2
+2023-03-27,Clothing,North,19,63.31,1202.89
+2023-03-28,Clothing,North,27,66.07,1783.8899999999999
+2023-03-29,Clothing,North,22,21.84,480.48
+2023-03-30,Clothing,North,15,97.43,1461.45
+2023-03-31,Clothing,North,20,88.37,1767.4
+2023-04-01,Clothing,North,19,42.33,804.27
+2023-04-02,Clothing,North,21,45.2,949.2
+2023-04-03,Clothing,North,33,69.11,2280.63
+2023-04-04,Clothing,North,18,21.78,392.04
+2023-04-05,Clothing,North,33,31.24,1030.9199999999998
+2023-04-06,Clothing,North,12,56.78,681.36
+2023-04-07,Clothing,North,18,48.78,878.04
+2023-04-08,Clothing,North,16,73.61,1177.76
+2023-04-09,Clothing,North,15,13.3,199.5
+2023-04-10,Clothing,North,23,52.72,1212.56
+2023-01-01,Clothing,South,21,28.53,599.13
+2023-01-02,Clothing,South,13,15.14,196.82
+2023-01-03,Clothing,South,20,13.54,270.79999999999995
+2023-01-04,Clothing,South,14,94.05,1316.7
+2023-01-05,Clothing,South,17,13.74,233.58
+2023-01-06,Clothing,South,32,95.66,3061.12
+2023-01-07,Clothing,South,19,54.0,1026.0
+2023-01-08,Clothing,South,22,12.7,279.4
+2023-01-09,Clothing,South,17,28.17,478.89000000000004
+2023-01-10,Clothing,South,13,49.94,649.22
+2023-01-11,Clothing,South,26,72.34,1880.8400000000001
+2023-01-12,Clothing,South,22,65.61,1443.42
+2023-01-13,Clothing,South,26,12.73,330.98
+2023-01-14,Clothing,South,28,70.89,1984.92
+2023-01-15,Clothing,South,16,45.45,727.2
+2023-01-16,Clothing,South,22,69.21,1522.62
+2023-01-17,Clothing,South,21,89.07,1870.4699999999998
+2023-01-18,Clothing,South,19,70.08,1331.52
+2023-01-19,Clothing,South,24,81.8,1963.1999999999998
+2023-01-20,Clothing,South,19,20.82,395.58
+2023-01-21,Clothing,South,21,39.21,823.41
+2023-01-22,Clothing,South,18,72.59,1306.6200000000001
+2023-01-23,Clothing,South,18,31.38,564.84
+2023-01-24,Clothing,South,18,16.59,298.62
+2023-01-25,Clothing,South,21,65.75,1380.75
+2023-01-26,Clothing,South,19,87.7,1666.3
+2023-01-27,Clothing,South,20,12.31,246.20000000000002
+2023-01-28,Clothing,South,18,45.89,826.02
+2023-01-29,Clothing,South,21,64.71,1358.9099999999999
+2023-01-30,Clothing,South,27,93.43,2522.61
+2023-01-31,Clothing,South,18,53.73,967.14
+2023-02-01,Clothing,South,16,37.66,602.56
+2023-02-02,Clothing,South,24,38.02,912.48
+2023-02-03,Clothing,South,21,34.54,725.34
+2023-02-04,Clothing,South,19,26.3,499.7
+2023-02-05,Clothing,South,22,57.26,1259.72
+2023-02-06,Clothing,South,23,61.06,1404.38
+2023-02-07,Clothing,South,20,59.52,1190.4
+2023-02-08,Clothing,South,30,83.73,2511.9
+2023-02-09,Clothing,South,26,29.08,756.0799999999999
+2023-02-10,Clothing,South,21,85.59,1797.39
+2023-02-11,Clothing,South,27,31.32,845.64
+2023-02-12,Clothing,South,24,84.04,2016.96
+2023-02-13,Clothing,South,19,18.6,353.40000000000003
+2023-02-14,Clothing,South,22,62.79,1381.3799999999999
+2023-02-15,Clothing,South,15,87.65,1314.75
+2023-02-16,Clothing,South,16,12.13,194.08
+2023-02-17,Clothing,South,22,59.2,1302.4
+2023-02-18,Clothing,South,16,63.5,1016.0
+2023-02-19,Clothing,South,14,46.39,649.46
+2023-02-20,Clothing,South,19,72.32,1374.08
+2023-02-21,Clothing,South,13,62.05,806.65
+2023-02-22,Clothing,South,17,17.71,301.07
+2023-02-23,Clothing,South,27,39.1,1055.7
+2023-02-24,Clothing,South,16,16.25,260.0
+2023-02-25,Clothing,South,20,82.03,1640.6
+2023-02-26,Clothing,South,16,89.21,1427.36
+2023-02-27,Clothing,South,22,39.19,862.18
+2023-02-28,Clothing,South,18,99.47,1790.46
+2023-03-01,Clothing,South,22,75.76,1666.72
+2023-03-02,Clothing,South,19,60.61,1151.59
+2023-03-03,Clothing,South,31,72.1,2235.1
+2023-03-04,Clothing,South,16,18.7,299.2
+2023-03-05,Clothing,South,19,41.28,784.32
+2023-03-06,Clothing,South,22,93.45,2055.9
+2023-03-07,Clothing,South,16,23.72,379.52
+2023-03-08,Clothing,South,20,56.89,1137.8
+2023-03-09,Clothing,South,22,77.97,1715.34
+2023-03-10,Clothing,South,14,80.38,1125.32
+2023-03-11,Clothing,South,23,37.28,857.44
+2023-03-12,Clothing,South,17,17.89,304.13
+2023-03-13,Clothing,South,29,37.5,1087.5
+2023-03-14,Clothing,South,19,64.05,1216.95
+2023-03-15,Clothing,South,20,54.73,1094.6
+2023-03-16,Clothing,South,14,44.26,619.64
+2023-03-17,Clothing,South,24,37.42,898.08
+2023-03-18,Clothing,South,12,25.62,307.44
+2023-03-19,Clothing,South,23,97.8,2249.4
+2023-03-20,Clothing,South,22,21.93,482.46
+2023-03-21,Clothing,South,20,78.83,1576.6
+2023-03-22,Clothing,South,15,45.88,688.2
+2023-03-23,Clothing,South,14,16.14,225.96
+2023-03-24,Clothing,South,32,38.06,1217.92
+2023-03-25,Clothing,South,20,19.51,390.20000000000005
+2023-03-26,Clothing,South,22,65.76,1446.72
+2023-03-27,Clothing,South,22,15.52,341.44
+2023-03-28,Clothing,South,24,15.23,365.52
+2023-03-29,Clothing,South,16,20.92,334.72
+2023-03-30,Clothing,South,17,72.29,1228.93
+2023-03-31,Clothing,South,11,99.7,1096.7
+2023-04-01,Clothing,South,25,37.56,939.0
+2023-04-02,Clothing,South,22,48.35,1063.7
+2023-04-03,Clothing,South,19,43.1,818.9
+2023-04-04,Clothing,South,19,76.03,1444.57
+2023-04-05,Clothing,South,24,47.45,1138.8000000000002
+2023-04-06,Clothing,South,20,33.38,667.6
+2023-04-07,Clothing,South,24,58.18,1396.32
+2023-04-08,Clothing,South,16,31.71,507.36
+2023-04-09,Clothing,South,31,19.88,616.28
+2023-04-10,Clothing,South,21,85.99,1805.79
+2023-01-01,Clothing,West,13,23.5,305.5
+2023-01-02,Clothing,West,18,52.84,951.1200000000001
+2023-01-03,Clothing,West,18,51.35,924.3000000000001
+2023-01-04,Clothing,West,17,49.38,839.46
+2023-01-05,Clothing,West,19,69.34,1317.46
+2023-01-06,Clothing,West,27,65.25,1761.75
+2023-01-07,Clothing,West,11,23.52,258.71999999999997
+2023-01-08,Clothing,West,23,71.22,1638.06
+2023-01-09,Clothing,West,9,74.47,670.23
+2023-01-10,Clothing,West,12,11.09,133.07999999999998
+2023-01-11,Clothing,West,18,41.47,746.46
+2023-01-12,Clothing,West,24,26.67,640.08
+2023-01-13,Clothing,West,15,69.43,1041.45
+2023-01-14,Clothing,West,24,11.89,285.36
+2023-01-15,Clothing,West,17,66.22,1125.74
+2023-01-16,Clothing,West,18,20.92,376.56000000000006
+2023-01-17,Clothing,West,21,67.95,1426.95
+2023-01-18,Clothing,West,20,97.16,1943.1999999999998
+2023-01-19,Clothing,West,24,98.2,2356.8
+2023-01-20,Clothing,West,21,77.33,1623.93
+2023-01-21,Clothing,West,25,21.53,538.25
+2023-01-22,Clothing,West,18,30.22,543.96
+2023-01-23,Clothing,West,18,49.55,891.9
+2023-01-24,Clothing,West,16,27.77,444.32
+2023-01-25,Clothing,West,26,35.73,928.9799999999999
+2023-01-26,Clothing,West,16,51.45,823.2
+2023-01-27,Clothing,West,25,79.88,1997.0
+2023-01-28,Clothing,West,22,59.05,1299.1
+2023-01-29,Clothing,West,9,21.86,196.74
+2023-01-30,Clothing,West,23,29.22,672.06
+2023-01-31,Clothing,West,20,75.95,1519.0
+2023-02-01,Clothing,West,20,55.75,1115.0
+2023-02-02,Clothing,West,17,72.0,1224.0
+2023-02-03,Clothing,West,26,78.5,2041.0
+2023-02-04,Clothing,West,15,10.84,162.6
+2023-02-05,Clothing,West,16,99.26,1588.16
+2023-02-06,Clothing,West,13,82.01,1066.13
+2023-02-07,Clothing,West,16,75.98,1215.68
+2023-02-08,Clothing,West,21,41.98,881.5799999999999
+2023-02-09,Clothing,West,24,10.47,251.28000000000003
+2023-02-10,Clothing,West,24,77.12,1850.88
+2023-02-11,Clothing,West,18,23.4,421.2
+2023-02-12,Clothing,West,17,99.67,1694.39
+2023-02-13,Clothing,West,18,74.99,1349.82
+2023-02-14,Clothing,West,26,45.24,1176.24
+2023-02-15,Clothing,West,19,10.29,195.51
+2023-02-16,Clothing,West,22,81.48,1792.5600000000002
+2023-02-17,Clothing,West,13,53.29,692.77
+2023-02-18,Clothing,West,22,62.2,1368.4
+2023-02-19,Clothing,West,21,64.31,1350.51
+2023-02-20,Clothing,West,22,34.28,754.1600000000001
+2023-02-21,Clothing,West,25,16.94,423.50000000000006
+2023-02-22,Clothing,West,11,80.64,887.04
+2023-02-23,Clothing,West,23,56.55,1300.6499999999999
+2023-02-24,Clothing,West,19,39.54,751.26
+2023-02-25,Clothing,West,19,29.86,567.34
+2023-02-26,Clothing,West,21,99.85,2096.85
+2023-02-27,Clothing,West,28,47.91,1341.48
+2023-02-28,Clothing,West,22,20.65,454.29999999999995
+2023-03-01,Clothing,West,19,44.54,846.26
+2023-03-02,Clothing,West,21,26.6,558.6
+2023-03-03,Clothing,West,18,12.36,222.48
+2023-03-04,Clothing,West,17,36.89,627.13
+2023-03-05,Clothing,West,29,48.67,1411.43
+2023-03-06,Clothing,West,19,22.01,418.19000000000005
+2023-03-07,Clothing,West,20,75.66,1513.1999999999998
+2023-03-08,Clothing,West,24,64.92,1558.08
+2023-03-09,Clothing,West,14,69.13,967.8199999999999
+2023-03-10,Clothing,West,31,15.13,469.03000000000003
+2023-03-11,Clothing,West,17,32.23,547.91
+2023-03-12,Clothing,West,27,34.48,930.9599999999999
+2023-03-13,Clothing,West,24,79.9,1917.6000000000001
+2023-03-14,Clothing,West,11,13.03,143.32999999999998
+2023-03-15,Clothing,West,14,47.0,658.0
+2023-03-16,Clothing,West,18,11.96,215.28000000000003
+2023-03-17,Clothing,West,10,33.41,334.09999999999997
+2023-03-18,Clothing,West,16,27.83,445.28
+2023-03-19,Clothing,West,21,97.48,2047.0800000000002
+2023-03-20,Clothing,West,21,20.27,425.67
+2023-03-21,Clothing,West,15,32.59,488.85
+2023-03-22,Clothing,West,25,57.11,1427.75
+2023-03-23,Clothing,West,14,75.05,1050.7
+2023-03-24,Clothing,West,12,58.92,707.04
+2023-03-25,Clothing,West,12,53.62,643.4399999999999
+2023-03-26,Clothing,West,25,51.61,1290.25
+2023-03-27,Clothing,West,19,59.09,1122.71
+2023-03-28,Clothing,West,11,82.58,908.38
+2023-03-29,Clothing,West,19,80.77,1534.6299999999999
+2023-03-30,Clothing,West,16,24.82,397.12
+2023-03-31,Clothing,West,18,56.74,1021.32
+2023-04-01,Clothing,West,16,89.16,1426.56
+2023-04-02,Clothing,West,26,50.61,1315.86
+2023-04-03,Clothing,West,19,58.48,1111.12
+2023-04-04,Clothing,West,20,69.11,1382.2
+2023-04-05,Clothing,West,25,79.81,1995.25
+2023-04-06,Clothing,West,32,57.1,1827.2
+2023-04-07,Clothing,West,17,61.98,1053.6599999999999
+2023-04-08,Clothing,West,22,45.64,1004.08
+2023-04-09,Clothing,West,27,24.22,653.9399999999999
+2023-04-10,Clothing,West,23,38.51,885.7299999999999
+2023-01-01,Home & Kitchen,North,14,26.58,372.12
+2023-01-02,Home & Kitchen,North,27,23.69,639.63
+2023-01-03,Home & Kitchen,North,19,17.51,332.69000000000005
+2023-01-04,Home & Kitchen,North,26,55.47,1442.22
+2023-01-05,Home & Kitchen,North,22,89.37,1966.14
+2023-01-06,Home & Kitchen,North,19,11.13,211.47000000000003
+2023-01-07,Home & Kitchen,North,21,74.74,1569.54
+2023-01-08,Home & Kitchen,North,26,75.83,1971.58
+2023-01-09,Home & Kitchen,North,25,73.92,1848.0
+2023-01-10,Home & Kitchen,North,17,83.95,1427.15
+2023-01-11,Home & Kitchen,North,19,54.48,1035.12
+2023-01-12,Home & Kitchen,North,25,25.64,641.0
+2023-01-13,Home & Kitchen,North,13,22.78,296.14
+2023-01-14,Home & Kitchen,North,18,77.39,1393.02
+2023-01-15,Home & Kitchen,North,22,41.71,917.62
+2023-01-16,Home & Kitchen,North,25,98.12,2453.0
+2023-01-17,Home & Kitchen,North,22,70.86,1558.92
+2023-01-18,Home & Kitchen,North,18,16.27,292.86
+2023-01-19,Home & Kitchen,North,16,35.13,562.08
+2023-01-20,Home & Kitchen,North,22,56.14,1235.08
+2023-01-21,Home & Kitchen,North,17,12.99,220.83
+2023-01-22,Home & Kitchen,North,17,94.45,1605.65
+2023-01-23,Home & Kitchen,North,24,33.43,802.3199999999999
+2023-01-24,Home & Kitchen,North,27,60.44,1631.8799999999999
+2023-01-25,Home & Kitchen,North,13,51.43,668.59
+2023-01-26,Home & Kitchen,North,26,44.24,1150.24
+2023-01-27,Home & Kitchen,North,36,48.03,1729.08
+2023-01-28,Home & Kitchen,North,28,87.25,2443.0
+2023-01-29,Home & Kitchen,North,17,77.86,1323.62
+2023-01-30,Home & Kitchen,North,24,96.65,2319.6000000000004
+2023-01-31,Home & Kitchen,North,23,84.65,1946.95
+2023-02-01,Home & Kitchen,North,17,20.13,342.21
+2023-02-02,Home & Kitchen,North,23,18.69,429.87
+2023-02-03,Home & Kitchen,North,16,52.19,835.04
+2023-02-04,Home & Kitchen,North,17,36.75,624.75
+2023-02-05,Home & Kitchen,North,17,14.33,243.61
+2023-02-06,Home & Kitchen,North,22,90.31,1986.8200000000002
+2023-02-07,Home & Kitchen,North,15,31.56,473.4
+2023-02-08,Home & Kitchen,North,24,62.45,1498.8000000000002
+2023-02-09,Home & Kitchen,North,20,84.82,1696.3999999999999
+2023-02-10,Home & Kitchen,North,21,18.45,387.45
+2023-02-11,Home & Kitchen,North,27,84.64,2285.28
+2023-02-12,Home & Kitchen,North,26,56.57,1470.82
+2023-02-13,Home & Kitchen,North,19,49.11,933.09
+2023-02-14,Home & Kitchen,North,24,90.33,2167.92
+2023-02-15,Home & Kitchen,North,19,66.82,1269.58
+2023-02-16,Home & Kitchen,North,21,31.37,658.77
+2023-02-17,Home & Kitchen,North,20,44.61,892.2
+2023-02-18,Home & Kitchen,North,20,95.55,1911.0
+2023-02-19,Home & Kitchen,North,21,55.56,1166.76
+2023-02-20,Home & Kitchen,North,22,32.9,723.8
+2023-02-21,Home & Kitchen,North,18,14.11,253.98
+2023-02-22,Home & Kitchen,North,14,97.44,1364.1599999999999
+2023-02-23,Home & Kitchen,North,18,27.65,497.7
+2023-02-24,Home & Kitchen,North,21,28.63,601.23
+2023-02-25,Home & Kitchen,North,20,10.69,213.79999999999998
+2023-02-26,Home & Kitchen,North,16,19.72,315.52
+2023-02-27,Home & Kitchen,North,18,61.48,1106.6399999999999
+2023-02-28,Home & Kitchen,North,20,93.86,1877.2
+2023-03-01,Home & Kitchen,North,19,65.54,1245.2600000000002
+2023-03-02,Home & Kitchen,North,14,55.67,779.38
+2023-03-03,Home & Kitchen,North,26,73.2,1903.2
+2023-03-04,Home & Kitchen,North,17,47.96,815.32
+2023-03-05,Home & Kitchen,North,19,74.26,1410.94
+2023-03-06,Home & Kitchen,North,21,84.14,1766.94
+2023-03-07,Home & Kitchen,North,30,10.14,304.20000000000005
+2023-03-08,Home & Kitchen,North,22,33.18,729.96
+2023-03-09,Home & Kitchen,North,11,71.79,789.69
+2023-03-10,Home & Kitchen,North,14,51.06,714.84
+2023-03-11,Home & Kitchen,North,18,47.71,858.78
+2023-03-12,Home & Kitchen,North,24,17.22,413.28
+2023-03-13,Home & Kitchen,North,18,70.17,1263.06
+2023-03-14,Home & Kitchen,North,22,63.43,1395.46
+2023-03-15,Home & Kitchen,North,27,88.63,2393.0099999999998
+2023-03-16,Home & Kitchen,North,23,91.22,2098.06
+2023-03-17,Home & Kitchen,North,11,22.79,250.69
+2023-03-18,Home & Kitchen,North,17,61.95,1053.15
+2023-03-19,Home & Kitchen,North,9,60.28,542.52
+2023-03-20,Home & Kitchen,North,18,68.71,1236.78
+2023-03-21,Home & Kitchen,North,25,48.69,1217.25
+2023-03-22,Home & Kitchen,North,22,37.57,826.54
+2023-03-23,Home & Kitchen,North,24,81.85,1964.3999999999999
+2023-03-24,Home & Kitchen,North,27,38.7,1044.9
+2023-03-25,Home & Kitchen,North,21,64.1,1346.1
+2023-03-26,Home & Kitchen,North,23,43.71,1005.33
+2023-03-27,Home & Kitchen,North,15,22.83,342.45
+2023-03-28,Home & Kitchen,North,26,23.9,621.4
+2023-03-29,Home & Kitchen,North,22,16.45,361.9
+2023-03-30,Home & Kitchen,North,19,70.94,1347.86
+2023-03-31,Home & Kitchen,North,21,29.61,621.81
+2023-04-01,Home & Kitchen,North,23,53.7,1235.1000000000001
+2023-04-02,Home & Kitchen,North,32,13.51,432.32
+2023-04-03,Home & Kitchen,North,15,78.06,1170.9
+2023-04-04,Home & Kitchen,North,19,91.01,1729.19
+2023-04-05,Home & Kitchen,North,17,64.26,1092.42
+2023-04-06,Home & Kitchen,North,18,40.63,731.34
+2023-04-07,Home & Kitchen,North,20,59.83,1196.6
+2023-04-08,Home & Kitchen,North,20,85.03,1700.6
+2023-04-09,Home & Kitchen,North,19,33.34,633.46
+2023-04-10,Home & Kitchen,North,15,40.82,612.3
+2023-01-01,Home & Kitchen,South,21,62.24,1307.04
+2023-01-02,Home & Kitchen,South,14,66.36,929.04
+2023-01-03,Home & Kitchen,South,20,99.45,1989.0
+2023-01-04,Home & Kitchen,South,26,61.24,1592.24
+2023-01-05,Home & Kitchen,South,22,45.56,1002.32
+2023-01-06,Home & Kitchen,South,21,96.76,2031.96
+2023-01-07,Home & Kitchen,South,27,58.0,1566.0
+2023-01-08,Home & Kitchen,South,26,81.15,2109.9
+2023-01-09,Home & Kitchen,South,14,34.82,487.48
+2023-01-10,Home & Kitchen,South,14,98.29,1376.0600000000002
+2023-01-11,Home & Kitchen,South,20,62.99,1259.8
+2023-01-12,Home & Kitchen,South,18,28.29,509.21999999999997
+2023-01-13,Home & Kitchen,South,24,56.01,1344.24
+2023-01-14,Home & Kitchen,South,20,87.9,1758.0
+2023-01-15,Home & Kitchen,South,16,86.86,1389.76
+2023-01-16,Home & Kitchen,South,19,90.38,1717.2199999999998
+2023-01-17,Home & Kitchen,South,19,66.39,1261.41
+2023-01-18,Home & Kitchen,South,28,52.92,1481.76
+2023-01-19,Home & Kitchen,South,23,72.33,1663.59
+2023-01-20,Home & Kitchen,South,14,42.28,591.9200000000001
+2023-01-21,Home & Kitchen,South,24,28.96,695.04
+2023-01-22,Home & Kitchen,South,31,99.8,3093.7999999999997
+2023-01-23,Home & Kitchen,South,22,36.52,803.44
+2023-01-24,Home & Kitchen,South,25,22.86,571.5
+2023-01-25,Home & Kitchen,South,22,86.13,1894.86
+2023-01-26,Home & Kitchen,South,21,53.89,1131.69
+2023-01-27,Home & Kitchen,South,12,46.64,559.6800000000001
+2023-01-28,Home & Kitchen,South,11,19.99,219.89
+2023-01-29,Home & Kitchen,South,20,16.92,338.40000000000003
+2023-01-30,Home & Kitchen,South,20,73.64,1472.8
+2023-01-31,Home & Kitchen,South,10,46.26,462.59999999999997
+2023-02-01,Home & Kitchen,South,17,35.29,599.93
+2023-02-02,Home & Kitchen,South,19,38.93,739.67
+2023-02-03,Home & Kitchen,South,20,67.64,1352.8
+2023-02-04,Home & Kitchen,South,18,21.06,379.08
+2023-02-05,Home & Kitchen,South,26,50.44,1311.44
+2023-02-06,Home & Kitchen,South,21,16.46,345.66
+2023-02-07,Home & Kitchen,South,22,74.26,1633.72
+2023-02-08,Home & Kitchen,South,21,22.86,480.06
+2023-02-09,Home & Kitchen,South,24,54.7,1312.8000000000002
+2023-02-10,Home & Kitchen,South,17,66.66,1133.22
+2023-02-11,Home & Kitchen,South,17,56.0,952.0
+2023-02-12,Home & Kitchen,South,10,73.63,736.3
+2023-02-13,Home & Kitchen,South,23,19.17,440.91
+2023-02-14,Home & Kitchen,South,18,85.84,1545.1200000000001
+2023-02-15,Home & Kitchen,South,17,90.27,1534.59
+2023-02-16,Home & Kitchen,South,19,43.96,835.24
+2023-02-17,Home & Kitchen,South,32,71.83,2298.56
+2023-02-18,Home & Kitchen,South,20,66.94,1338.8
+2023-02-19,Home & Kitchen,South,23,25.03,575.69
+2023-02-20,Home & Kitchen,South,23,96.94,2229.62
+2023-02-21,Home & Kitchen,South,23,19.48,448.04
+2023-02-22,Home & Kitchen,South,24,14.34,344.15999999999997
+2023-02-23,Home & Kitchen,South,20,51.19,1023.8
+2023-02-24,Home & Kitchen,South,16,43.28,692.48
+2023-02-25,Home & Kitchen,South,19,86.53,1644.07
+2023-02-26,Home & Kitchen,South,16,52.51,840.16
+2023-02-27,Home & Kitchen,South,26,71.0,1846.0
+2023-02-28,Home & Kitchen,South,21,22.29,468.09
+2023-03-01,Home & Kitchen,South,22,38.41,845.02
+2023-03-02,Home & Kitchen,South,22,74.19,1632.1799999999998
+2023-03-03,Home & Kitchen,South,16,35.87,573.92
+2023-03-04,Home & Kitchen,South,18,20.04,360.71999999999997
+2023-03-05,Home & Kitchen,South,20,85.19,1703.8
+2023-03-06,Home & Kitchen,South,18,21.19,381.42
+2023-03-07,Home & Kitchen,South,19,46.39,881.41
+2023-03-08,Home & Kitchen,South,20,10.89,217.8
+2023-03-09,Home & Kitchen,South,20,38.07,761.4
+2023-03-10,Home & Kitchen,South,14,79.31,1110.3400000000001
+2023-03-11,Home & Kitchen,South,24,33.9,813.5999999999999
+2023-03-12,Home & Kitchen,South,24,41.33,991.92
+2023-03-13,Home & Kitchen,South,18,36.98,665.64
+2023-03-14,Home & Kitchen,South,25,90.87,2271.75
+2023-03-15,Home & Kitchen,South,19,37.26,707.9399999999999
+2023-03-16,Home & Kitchen,South,11,32.19,354.09
+2023-03-17,Home & Kitchen,South,20,52.64,1052.8
+2023-03-18,Home & Kitchen,South,29,99.22,2877.38
+2023-03-19,Home & Kitchen,South,12,30.28,363.36
+2023-03-20,Home & Kitchen,South,15,66.02,990.3
+2023-03-21,Home & Kitchen,South,24,23.23,557.52
+2023-03-22,Home & Kitchen,South,25,44.93,1123.25
+2023-03-23,Home & Kitchen,South,22,41.07,903.54
+2023-03-24,Home & Kitchen,South,28,52.3,1464.3999999999999
+2023-03-25,Home & Kitchen,South,26,15.6,405.59999999999997
+2023-03-26,Home & Kitchen,South,14,66.78,934.9200000000001
+2023-03-27,Home & Kitchen,South,19,96.21,1827.9899999999998
+2023-03-28,Home & Kitchen,South,20,55.05,1101.0
+2023-03-29,Home & Kitchen,South,22,34.72,763.8399999999999
+2023-03-30,Home & Kitchen,South,24,59.19,1420.56
+2023-03-31,Home & Kitchen,South,19,24.92,473.48
+2023-04-01,Home & Kitchen,South,19,14.5,275.5
+2023-04-02,Home & Kitchen,South,17,63.42,1078.14
+2023-04-03,Home & Kitchen,South,12,98.31,1179.72
+2023-04-04,Home & Kitchen,South,31,97.96,3036.7599999999998
+2023-04-05,Home & Kitchen,South,24,52.92,1270.08
+2023-04-06,Home & Kitchen,South,23,67.66,1556.1799999999998
+2023-04-07,Home & Kitchen,South,22,60.86,1338.92
+2023-04-08,Home & Kitchen,South,24,11.09,266.15999999999997
+2023-04-09,Home & Kitchen,South,28,67.09,1878.52
+2023-04-10,Home & Kitchen,South,16,86.32,1381.12
+2023-01-01,Home & Kitchen,West,23,48.58,1117.34
+2023-01-02,Home & Kitchen,West,22,36.0,792.0
+2023-01-03,Home & Kitchen,West,19,99.39,1888.41
+2023-01-04,Home & Kitchen,West,18,77.88,1401.84
+2023-01-05,Home & Kitchen,West,21,80.88,1698.48
+2023-01-06,Home & Kitchen,West,16,42.27,676.32
+2023-01-07,Home & Kitchen,West,22,27.24,599.28
+2023-01-08,Home & Kitchen,West,28,55.54,1555.12
+2023-01-09,Home & Kitchen,West,16,13.24,211.84
+2023-01-10,Home & Kitchen,West,21,62.21,1306.41
+2023-01-11,Home & Kitchen,West,20,35.42,708.4000000000001
+2023-01-12,Home & Kitchen,West,18,95.18,1713.2400000000002
+2023-01-13,Home & Kitchen,West,27,80.23,2166.21
+2023-01-14,Home & Kitchen,West,20,28.42,568.4000000000001
+2023-01-15,Home & Kitchen,West,21,39.84,836.6400000000001
+2023-01-16,Home & Kitchen,West,25,16.4,409.99999999999994
+2023-01-17,Home & Kitchen,West,20,82.98,1659.6000000000001
+2023-01-18,Home & Kitchen,West,25,72.43,1810.7500000000002
+2023-01-19,Home & Kitchen,West,24,23.64,567.36
+2023-01-20,Home & Kitchen,West,26,35.42,920.9200000000001
+2023-01-21,Home & Kitchen,West,19,21.51,408.69000000000005
+2023-01-22,Home & Kitchen,West,24,47.49,1139.76
+2023-01-23,Home & Kitchen,West,20,97.58,1951.6
+2023-01-24,Home & Kitchen,West,16,37.35,597.6
+2023-01-25,Home & Kitchen,West,16,75.64,1210.24
+2023-01-26,Home & Kitchen,West,33,69.67,2299.11
+2023-01-27,Home & Kitchen,West,23,48.04,1104.92
+2023-01-28,Home & Kitchen,West,17,74.14,1260.38
+2023-01-29,Home & Kitchen,West,25,43.38,1084.5
+2023-01-30,Home & Kitchen,West,18,69.49,1250.82
+2023-01-31,Home & Kitchen,West,12,73.84,886.08
+2023-02-01,Home & Kitchen,West,15,62.54,938.1
+2023-02-02,Home & Kitchen,West,30,33.88,1016.4000000000001
+2023-02-03,Home & Kitchen,West,21,74.3,1560.3
+2023-02-04,Home & Kitchen,West,24,56.25,1350.0
+2023-02-05,Home & Kitchen,West,20,93.96,1879.1999999999998
+2023-02-06,Home & Kitchen,West,25,74.29,1857.2500000000002
+2023-02-07,Home & Kitchen,West,19,72.51,1377.69
+2023-02-08,Home & Kitchen,West,17,27.57,468.69
+2023-02-09,Home & Kitchen,West,18,98.07,1765.2599999999998
+2023-02-10,Home & Kitchen,West,23,95.24,2190.52
+2023-02-11,Home & Kitchen,West,20,24.67,493.40000000000003
+2023-02-12,Home & Kitchen,West,24,44.59,1070.16
+2023-02-13,Home & Kitchen,West,33,31.15,1027.95
+2023-02-14,Home & Kitchen,West,15,59.74,896.1
+2023-02-15,Home & Kitchen,West,19,87.88,1669.7199999999998
+2023-02-16,Home & Kitchen,West,15,36.1,541.5
+2023-02-17,Home & Kitchen,West,26,81.7,2124.2000000000003
+2023-02-18,Home & Kitchen,West,16,61.46,983.36
+2023-02-19,Home & Kitchen,West,17,41.77,710.09
+2023-02-20,Home & Kitchen,West,22,75.94,1670.6799999999998
+2023-02-21,Home & Kitchen,West,19,80.54,1530.2600000000002
+2023-02-22,Home & Kitchen,West,17,71.69,1218.73
+2023-02-23,Home & Kitchen,West,18,43.65,785.6999999999999
+2023-02-24,Home & Kitchen,West,29,70.43,2042.4700000000003
+2023-02-25,Home & Kitchen,West,22,47.65,1048.3
+2023-02-26,Home & Kitchen,West,23,35.01,805.2299999999999
+2023-02-27,Home & Kitchen,West,17,98.23,1669.91
+2023-02-28,Home & Kitchen,West,11,26.14,287.54
+2023-03-01,Home & Kitchen,West,34,46.32,1574.88
+2023-03-02,Home & Kitchen,West,23,48.05,1105.1499999999999
+2023-03-03,Home & Kitchen,West,18,33.78,608.04
+2023-03-04,Home & Kitchen,West,16,34.17,546.72
+2023-03-05,Home & Kitchen,West,17,97.17,1651.89
+2023-03-06,Home & Kitchen,West,21,16.8,352.8
+2023-03-07,Home & Kitchen,West,30,18.29,548.6999999999999
+2023-03-08,Home & Kitchen,West,21,68.37,1435.77
+2023-03-09,Home & Kitchen,West,17,96.85,1646.4499999999998
+2023-03-10,Home & Kitchen,West,16,73.6,1177.6
+2023-03-11,Home & Kitchen,West,21,34.4,722.4
+2023-03-12,Home & Kitchen,West,21,95.21,1999.4099999999999
+2023-03-13,Home & Kitchen,West,13,95.03,1235.39
+2023-03-14,Home & Kitchen,West,16,73.1,1169.6
+2023-03-15,Home & Kitchen,West,22,11.39,250.58
+2023-03-16,Home & Kitchen,West,21,50.52,1060.92
+2023-03-17,Home & Kitchen,West,31,85.58,2652.98
+2023-03-18,Home & Kitchen,West,15,97.93,1468.95
+2023-03-19,Home & Kitchen,West,13,49.02,637.26
+2023-03-20,Home & Kitchen,West,13,92.31,1200.03
+2023-03-21,Home & Kitchen,West,19,49.1,932.9
+2023-03-22,Home & Kitchen,West,23,63.05,1450.1499999999999
+2023-03-23,Home & Kitchen,West,21,31.78,667.38
+2023-03-24,Home & Kitchen,West,23,27.93,642.39
+2023-03-25,Home & Kitchen,West,26,11.24,292.24
+2023-03-26,Home & Kitchen,West,16,34.37,549.92
+2023-03-27,Home & Kitchen,West,16,51.3,820.8
+2023-03-28,Home & Kitchen,West,23,70.56,1622.88
+2023-03-29,Home & Kitchen,West,21,65.51,1375.71
+2023-03-30,Home & Kitchen,West,23,56.93,1309.39
+2023-03-31,Home & Kitchen,West,12,92.87,1114.44
+2023-04-01,Home & Kitchen,West,21,34.2,718.2
+2023-04-02,Home & Kitchen,West,18,69.98,1259.64
+2023-04-03,Home & Kitchen,West,24,66.72,1601.28
+2023-04-04,Home & Kitchen,West,16,48.48,775.68
+2023-04-05,Home & Kitchen,West,19,94.27,1791.1299999999999
+2023-04-06,Home & Kitchen,West,17,11.97,203.49
+2023-04-07,Home & Kitchen,West,17,15.06,256.02
+2023-04-08,Home & Kitchen,West,20,19.49,389.79999999999995
+2023-04-09,Home & Kitchen,West,24,68.97,1655.28
+2023-04-10,Home & Kitchen,West,17,24.44,415.48
+2023-01-01,Books,North,12,69.78,837.36
+2023-01-02,Books,North,26,71.66,1863.1599999999999
+2023-01-03,Books,North,13,37.88,492.44000000000005
+2023-01-04,Books,North,16,58.2,931.2
+2023-01-05,Books,North,18,84.57,1522.2599999999998
+2023-01-06,Books,North,24,92.24,2213.7599999999998
+2023-01-07,Books,North,30,41.9,1257.0
+2023-01-08,Books,North,26,45.35,1179.1000000000001
+2023-01-09,Books,North,21,27.45,576.4499999999999
+2023-01-10,Books,North,23,64.95,1493.8500000000001
+2023-01-11,Books,North,15,26.13,391.95
+2023-01-12,Books,North,23,20.58,473.34
+2023-01-13,Books,North,15,74.69,1120.35
+2023-01-14,Books,North,23,24.52,563.96
+2023-01-15,Books,North,12,24.92,299.04
+2023-01-16,Books,North,26,41.88,1088.88
+2023-01-17,Books,North,13,56.73,737.49
+2023-01-18,Books,North,21,15.2,319.2
+2023-01-19,Books,North,18,29.76,535.6800000000001
+2023-01-20,Books,North,31,60.12,1863.72
+2023-01-21,Books,North,19,58.68,1114.92
+2023-01-22,Books,North,23,25.45,585.35
+2023-01-23,Books,North,20,88.35,1767.0
+2023-01-24,Books,North,22,20.39,448.58000000000004
+2023-01-25,Books,North,21,40.35,847.35
+2023-01-26,Books,North,14,28.56,399.84
+2023-01-27,Books,North,18,28.39,511.02
+2023-01-28,Books,North,20,11.63,232.60000000000002
+2023-01-29,Books,North,24,52.68,1264.32
+2023-01-30,Books,North,21,71.98,1511.5800000000002
+2023-01-31,Books,North,16,75.11,1201.76
+2023-02-01,Books,North,20,83.92,1678.4
+2023-02-02,Books,North,25,40.03,1000.75
+2023-02-03,Books,North,24,26.51,636.24
+2023-02-04,Books,North,19,44.9,853.1
+2023-02-05,Books,North,16,88.96,1423.36
+2023-02-06,Books,North,18,97.13,1748.34
+2023-02-07,Books,North,12,82.34,988.08
+2023-02-08,Books,North,21,29.81,626.01
+2023-02-09,Books,North,18,16.18,291.24
+2023-02-10,Books,North,18,75.05,1350.8999999999999
+2023-02-11,Books,North,22,10.75,236.5
+2023-02-12,Books,North,16,53.56,856.96
+2023-02-13,Books,North,24,15.98,383.52
+2023-02-14,Books,North,24,80.38,1929.12
+2023-02-15,Books,North,20,70.4,1408.0
+2023-02-16,Books,North,22,25.29,556.38
+2023-02-17,Books,North,24,68.87,1652.88
+2023-02-18,Books,North,26,66.92,1739.92
+2023-02-19,Books,North,15,74.48,1117.2
+2023-02-20,Books,North,17,38.24,650.08
+2023-02-21,Books,North,16,48.24,771.84
+2023-02-22,Books,North,27,26.91,726.57
+2023-02-23,Books,North,12,44.45,533.4000000000001
+2023-02-24,Books,North,25,81.66,2041.5
+2023-02-25,Books,North,17,33.77,574.09
+2023-02-26,Books,North,29,39.21,1137.09
+2023-02-27,Books,North,17,72.52,1232.84
+2023-02-28,Books,North,16,33.82,541.12
+2023-03-01,Books,North,22,80.02,1760.4399999999998
+2023-03-02,Books,North,24,17.95,430.79999999999995
+2023-03-03,Books,North,23,48.91,1124.9299999999998
+2023-03-04,Books,North,16,13.51,216.16
+2023-03-05,Books,North,22,90.81,1997.8200000000002
+2023-03-06,Books,North,26,91.09,2368.34
+2023-03-07,Books,North,25,61.9,1547.5
+2023-03-08,Books,North,11,99.9,1098.9
+2023-03-09,Books,North,18,82.6,1486.8
+2023-03-10,Books,North,16,47.01,752.16
+2023-03-11,Books,North,14,42.44,594.16
+2023-03-12,Books,North,24,38.15,915.5999999999999
+2023-03-13,Books,North,22,11.29,248.38
+2023-03-14,Books,North,24,78.61,1886.6399999999999
+2023-03-15,Books,North,22,66.22,1456.84
+2023-03-16,Books,North,26,62.29,1619.54
+2023-03-17,Books,North,19,45.03,855.57
+2023-03-18,Books,North,16,93.54,1496.64
+2023-03-19,Books,North,28,57.49,1609.72
+2023-03-20,Books,North,24,63.38,1521.1200000000001
+2023-03-21,Books,North,10,70.73,707.3000000000001
+2023-03-22,Books,North,22,94.75,2084.5
+2023-03-23,Books,North,15,72.18,1082.7
+2023-03-24,Books,North,23,34.78,799.94
+2023-03-25,Books,North,15,63.94,959.0999999999999
+2023-03-26,Books,North,15,50.97,764.55
+2023-03-27,Books,North,22,25.28,556.1600000000001
+2023-03-28,Books,North,21,85.43,1794.0300000000002
+2023-03-29,Books,North,20,46.17,923.4000000000001
+2023-03-30,Books,North,15,34.93,523.95
+2023-03-31,Books,North,28,63.36,1774.08
+2023-04-01,Books,North,18,12.86,231.48
+2023-04-02,Books,North,19,64.62,1227.7800000000002
+2023-04-03,Books,North,22,87.67,1928.74
+2023-04-04,Books,North,26,76.37,1985.6200000000001
+2023-04-05,Books,North,17,99.75,1695.75
+2023-04-06,Books,North,19,15.62,296.78
+2023-04-07,Books,North,18,97.78,1760.04
+2023-04-08,Books,North,29,44.7,1296.3000000000002
+2023-04-09,Books,North,12,30.64,367.68
+2023-04-10,Books,North,20,19.09,381.8
+2023-01-01,Books,South,15,97.58,1463.7
+2023-01-02,Books,South,19,81.85,1555.1499999999999
+2023-01-03,Books,South,18,30.93,556.74
+2023-01-04,Books,South,14,41.98,587.7199999999999
+2023-01-05,Books,South,22,28.95,636.9
+2023-01-06,Books,South,25,40.84,1021.0000000000001
+2023-01-07,Books,South,26,17.45,453.7
+2023-01-08,Books,South,20,60.71,1214.2
+2023-01-09,Books,South,24,62.26,1494.24
+2023-01-10,Books,South,20,66.16,1323.1999999999998
+2023-01-11,Books,South,17,17.4,295.79999999999995
+2023-01-12,Books,South,19,84.01,1596.19
+2023-01-13,Books,South,11,51.26,563.86
+2023-01-14,Books,South,23,70.05,1611.1499999999999
+2023-01-15,Books,South,17,85.61,1455.37
+2023-01-16,Books,South,18,54.05,972.9
+2023-01-17,Books,South,23,53.49,1230.27
+2023-01-18,Books,South,25,87.38,2184.5
+2023-01-19,Books,South,19,50.86,966.34
+2023-01-20,Books,South,24,27.68,664.3199999999999
+2023-01-21,Books,South,30,61.1,1833.0
+2023-01-22,Books,South,21,68.03,1428.63
+2023-01-23,Books,South,16,43.5,696.0
+2023-01-24,Books,South,22,61.38,1350.3600000000001
+2023-01-25,Books,South,15,29.68,445.2
+2023-01-26,Books,South,14,81.8,1145.2
+2023-01-27,Books,South,18,60.11,1081.98
+2023-01-28,Books,South,25,25.76,644.0
+2023-01-29,Books,South,22,29.64,652.08
+2023-01-30,Books,South,26,33.69,875.9399999999999
+2023-01-31,Books,South,24,77.52,1860.48
+2023-02-01,Books,South,15,41.61,624.15
+2023-02-02,Books,South,13,92.87,1207.31
+2023-02-03,Books,South,9,28.68,258.12
+2023-02-04,Books,South,20,78.45,1569.0
+2023-02-05,Books,South,15,48.7,730.5
+2023-02-06,Books,South,24,84.48,2027.52
+2023-02-07,Books,South,15,28.4,426.0
+2023-02-08,Books,South,18,65.36,1176.48
+2023-02-09,Books,South,27,55.11,1487.97
+2023-02-10,Books,South,10,59.6,596.0
+2023-02-11,Books,South,19,24.46,464.74
+2023-02-12,Books,South,16,75.21,1203.36
+2023-02-13,Books,South,13,35.29,458.77
+2023-02-14,Books,South,15,82.13,1231.9499999999998
+2023-02-15,Books,South,18,21.29,383.21999999999997
+2023-02-16,Books,South,24,70.97,1703.28
+2023-02-17,Books,South,18,11.72,210.96
+2023-02-18,Books,South,25,79.77,1994.25
+2023-02-19,Books,South,16,12.71,203.36
+2023-02-20,Books,South,31,93.99,2913.69
+2023-02-21,Books,South,17,71.06,1208.02
+2023-02-22,Books,South,17,95.24,1619.08
+2023-02-23,Books,South,26,34.97,909.22
+2023-02-24,Books,South,23,99.11,2279.53
+2023-02-25,Books,South,17,17.1,290.70000000000005
+2023-02-26,Books,South,19,40.9,777.1
+2023-02-27,Books,South,15,93.58,1403.7
+2023-02-28,Books,South,11,24.65,271.15
+2023-03-01,Books,South,21,97.13,2039.73
+2023-03-02,Books,South,19,32.2,611.8000000000001
+2023-03-03,Books,South,20,77.61,1552.2
+2023-03-04,Books,South,24,91.39,2193.36
+2023-03-05,Books,South,11,29.12,320.32
+2023-03-06,Books,South,22,46.22,1016.8399999999999
+2023-03-07,Books,South,27,72.2,1949.4
+2023-03-08,Books,South,17,26.62,452.54
+2023-03-09,Books,South,18,84.79,1526.22
+2023-03-10,Books,South,14,57.83,809.62
+2023-03-11,Books,South,17,36.99,628.83
+2023-03-12,Books,South,21,24.8,520.8000000000001
+2023-03-13,Books,South,14,91.22,1277.08
+2023-03-14,Books,South,18,69.28,1247.04
+2023-03-15,Books,South,28,60.99,1707.72
+2023-03-16,Books,South,19,10.97,208.43
+2023-03-17,Books,South,13,51.76,672.88
+2023-03-18,Books,South,16,63.54,1016.64
+2023-03-19,Books,South,23,69.28,1593.44
+2023-03-20,Books,South,20,25.53,510.6
+2023-03-21,Books,South,21,94.45,1983.45
+2023-03-22,Books,South,19,14.53,276.07
+2023-03-23,Books,South,19,65.26,1239.94
+2023-03-24,Books,South,16,42.33,677.28
+2023-03-25,Books,South,20,42.63,852.6
+2023-03-26,Books,South,24,28.82,691.6800000000001
+2023-03-27,Books,South,12,53.39,640.6800000000001
+2023-03-28,Books,South,25,44.29,1107.25
+2023-03-29,Books,South,24,44.61,1070.6399999999999
+2023-03-30,Books,South,19,93.93,1784.67
+2023-03-31,Books,South,22,12.94,284.68
+2023-04-01,Books,South,20,24.51,490.20000000000005
+2023-04-02,Books,South,21,16.16,339.36
+2023-04-03,Books,South,19,65.15,1237.8500000000001
+2023-04-04,Books,South,29,16.91,490.39
+2023-04-05,Books,South,18,46.29,833.22
+2023-04-06,Books,South,21,32.98,692.5799999999999
+2023-04-07,Books,South,13,47.19,613.47
+2023-04-08,Books,South,22,16.31,358.82
+2023-04-09,Books,South,19,24.11,458.09
+2023-04-10,Books,South,25,47.73,1193.25
+2023-01-01,Books,West,21,55.22,1159.62
+2023-01-02,Books,West,16,94.09,1505.44
+2023-01-03,Books,West,27,66.68,1800.3600000000001
+2023-01-04,Books,West,19,57.82,1098.58
+2023-01-05,Books,West,22,75.83,1668.26
+2023-01-06,Books,West,25,84.96,2124.0
+2023-01-07,Books,West,20,48.82,976.4
+2023-01-08,Books,West,18,32.61,586.98
+2023-01-09,Books,West,25,56.27,1406.75
+2023-01-10,Books,West,17,39.27,667.59
+2023-01-11,Books,West,9,10.57,95.13
+2023-01-12,Books,West,19,41.12,781.28
+2023-01-13,Books,West,22,95.21,2094.62
+2023-01-14,Books,West,19,33.93,644.67
+2023-01-15,Books,West,21,71.92,1510.32
+2023-01-16,Books,West,15,30.04,450.59999999999997
+2023-01-17,Books,West,17,47.55,808.3499999999999
+2023-01-18,Books,West,15,47.63,714.45
+2023-01-19,Books,West,12,19.02,228.24
+2023-01-20,Books,West,21,31.04,651.84
+2023-01-21,Books,West,35,30.83,1079.05
+2023-01-22,Books,West,19,13.55,257.45
+2023-01-23,Books,West,21,12.58,264.18
+2023-01-24,Books,West,21,80.86,1698.06
+2023-01-25,Books,West,17,62.95,1070.15
+2023-01-26,Books,West,19,58.98,1120.62
+2023-01-27,Books,West,17,34.43,585.31
+2023-01-28,Books,West,27,59.49,1606.23
+2023-01-29,Books,West,10,84.91,849.0999999999999
+2023-01-30,Books,West,24,30.35,728.4000000000001
+2023-01-31,Books,West,13,40.37,524.81
+2023-02-01,Books,West,26,29.0,754.0
+2023-02-02,Books,West,24,54.33,1303.92
+2023-02-03,Books,West,19,45.51,864.6899999999999
+2023-02-04,Books,West,20,61.48,1229.6
+2023-02-05,Books,West,24,23.85,572.4000000000001
+2023-02-06,Books,West,14,42.5,595.0
+2023-02-07,Books,West,19,15.1,286.9
+2023-02-08,Books,West,23,67.74,1558.02
+2023-02-09,Books,West,17,90.61,1540.37
+2023-02-10,Books,West,17,47.02,799.34
+2023-02-11,Books,West,16,84.35,1349.6
+2023-02-12,Books,West,22,45.73,1006.06
+2023-02-13,Books,West,15,42.44,636.5999999999999
+2023-02-14,Books,West,22,17.31,380.82
+2023-02-15,Books,West,24,62.0,1488.0
+2023-02-16,Books,West,26,52.09,1354.3400000000001
+2023-02-17,Books,West,22,48.47,1066.34
+2023-02-18,Books,West,18,86.55,1557.8999999999999
+2023-02-19,Books,West,16,72.02,1152.32
+2023-02-20,Books,West,25,80.16,2004.0
+2023-02-21,Books,West,16,32.77,524.32
+2023-02-22,Books,West,26,21.34,554.84
+2023-02-23,Books,West,25,70.88,1772.0
+2023-02-24,Books,West,21,71.43,1500.0300000000002
+2023-02-25,Books,West,21,34.83,731.43
+2023-02-26,Books,West,24,72.31,1735.44
+2023-02-27,Books,West,16,77.24,1235.84
+2023-02-28,Books,West,16,21.79,348.64
+2023-03-01,Books,West,21,14.05,295.05
+2023-03-02,Books,West,23,53.07,1220.61
+2023-03-03,Books,West,28,51.88,1452.64
+2023-03-04,Books,West,17,66.82,1135.9399999999998
+2023-03-05,Books,West,19,25.72,488.67999999999995
+2023-03-06,Books,West,17,96.88,1646.96
+2023-03-07,Books,West,21,55.03,1155.63
+2023-03-08,Books,West,12,64.08,768.96
+2023-03-09,Books,West,18,46.59,838.6200000000001
+2023-03-10,Books,West,14,36.4,509.59999999999997
+2023-03-11,Books,West,20,91.02,1820.3999999999999
+2023-03-12,Books,West,24,71.17,1708.08
+2023-03-13,Books,West,29,10.1,292.9
+2023-03-14,Books,West,17,69.57,1182.6899999999998
+2023-03-15,Books,West,22,11.46,252.12
+2023-03-16,Books,West,23,69.86,1606.78
+2023-03-17,Books,West,21,22.11,464.31
+2023-03-18,Books,West,13,92.66,1204.58
+2023-03-19,Books,West,22,46.18,1015.96
+2023-03-20,Books,West,23,20.64,474.72
+2023-03-21,Books,West,18,11.16,200.88
+2023-03-22,Books,West,20,96.19,1923.8
+2023-03-23,Books,West,21,17.66,370.86
+2023-03-24,Books,West,21,64.64,1357.44
+2023-03-25,Books,West,18,18.55,333.90000000000003
+2023-03-26,Books,West,17,25.92,440.64000000000004
+2023-03-27,Books,West,20,99.6,1992.0
+2023-03-28,Books,West,21,39.42,827.82
+2023-03-29,Books,West,17,70.53,1199.01
+2023-03-30,Books,West,22,21.99,483.78
+2023-03-31,Books,West,22,62.06,1365.3200000000002
+2023-04-01,Books,West,23,77.81,1789.63
+2023-04-02,Books,West,26,75.72,1968.72
+2023-04-03,Books,West,22,12.31,270.82
+2023-04-04,Books,West,17,65.54,1114.18
+2023-04-05,Books,West,25,21.3,532.5
+2023-04-06,Books,West,32,53.06,1697.92
+2023-04-07,Books,West,21,17.74,372.53999999999996
+2023-04-08,Books,West,11,62.7,689.7
+2023-04-09,Books,West,21,67.4,1415.4
+2023-04-10,Books,West,25,54.83,1370.75
